@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Test app</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button_start">Start service</string>
+    <string name="button_stop">Stop service</string>
+    <string name="service_start">Service started</string>
+    <string name="service_stop">Service stopped</string>
+    <string name="button_broadcast">Broadcast intent</string>
+    <string name="button_database">Database test</string>
+    <string name="intent_received">Intent detected</string>
+    <string name="edit_student">Name</string>
+    <string name="edit_grade">Grade</string>
+    <string name="button_addStudent">Add student</string>
+    <string name="button_retriveStudent">Retrive student</string>
+    <string name="debug_onCreate">onCreate() event</string>
+    <string name="debug_onStart">onStart() event</string>
+    <string name="debug_onResume">onResume() event</string>
+    <string name="debug_onPause">onPause() event</string>
+    <string name="debug_onStop">onStop() event</string>
+    <string name="debug_onDestroy">onDestroy() event</string>
+
+
+</resources>
